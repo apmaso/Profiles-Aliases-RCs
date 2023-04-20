@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/amass/.ssh'
+let g:netrw_dirhist_9='/home/amass/Documents/PSU/PythonWkshop/.git'
+let g:netrw_dirhist_8='/home/amass/Documents/PSU/PythonWkshop/.git/refs'
+let g:netrw_dirhist_7='/home/amass/Documents/PSU/PythonWkshop/.git'
+let g:netrw_dirhist_6='/home/amass/Documents/PSU/PythonWkshop/.git/objects'
+let g:netrw_dirhist_5='/home/amass/Documents/PSU/PythonWkshop/.git'
+let g:netrw_dirhist_4='/home/amass/Documents/PSU/PythonWkshop/.git/info'
+let g:netrw_dirhist_3='/home/amass/Documents/PSU/PythonWkshop/.git'
+let g:netrw_dirhist_2='/home/amass/.vim'
+let g:netrw_dirhist_1='/home/amass/Documents/ECE540/FinalPRe/src/SweRVolfSoC/Peripherals/vga'
